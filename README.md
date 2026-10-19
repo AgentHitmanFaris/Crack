@@ -24,7 +24,7 @@ Sistem modul dan arkib analisis yang terkandung dalam repositori ini:
 ```
 root/
 ├── [MOD-01] SeeMusic/
-│   └── 0x01_SeeMusic_v9.13.md  --> [EXTERNAL LOG LINKED]
+│   └── SeeMusic v9.1.3.md      --> [EXTERNAL LOG LINKED]
 └── [MOD-02] AnthemScore/
     └── 0x02_AnthemScore.md     --> [STANDBY / PENDING LOGS]
 
@@ -32,7 +32,7 @@ root/
 
 | Modul Sasaran | Kategori Analisis | Status Catatan | Pautan Rujukan / Lokasi |
 | --- | --- | --- | --- |
-| **01. SeeMusic** | Analisis Binari & Pengesahan Versi | `DOCUMENTED` | [`SeeMusic v9.13.md`]([https://github.com/AgentHitmanFaris/Crack/blob/Stable/SeeMusic%20v9.13.md](https://github.com/AgentHitmanFaris/Crack/blob/Stable/SeeMusic/SeeMusic%20v9.1.3.md)) |
+| **01. SeeMusic** | Analisis Binari & Pengesahan Versi | `DOCUMENTED` | [`SeeMusic v9.1.3.md`](https://github.com/AgentHitmanFaris/Crack/blob/Stable/SeeMusic/SeeMusic%20v9.1.3.md) |
 | **02. AnthemScore** | Pemprosesan Spektral & Audio-to-MIDI | `STANDBY` | `./AnthemScore/` |
 
 ---
@@ -42,7 +42,7 @@ root/
 #### `[ENTRY-01] // SeeMusic (v9.13)`
 
 * **Vektor Analisis:** Kajian struktur binaan, pengesahan modul perisian, dan titik interaksi sistem tempatan.
-* **Fail Dokumentasi:** Rujuk analisis terperinci pada [`SeeMusic v9.13.md`]([https://github.com/AgentHitmanFaris/Crack/blob/Stable/SeeMusic%20v9.13.md](https://github.com/AgentHitmanFaris/Crack/blob/Stable/SeeMusic/SeeMusic%20v9.1.3.md)).
+* **Fail Dokumentasi:** Rujuk analisis terperinci pada [`SeeMusic v9.1.3.md`](https://github.com/AgentHitmanFaris/Crack/blob/Stable/SeeMusic/SeeMusic%20v9.1.3.md).
 
 #### `[ENTRY-02] // AnthemScore`
 
@@ -58,4 +58,3 @@ root/
 [!] TIADA PENGKOMPILAN SUMBER KOD ATAU PAKEJ PEMASANGAN DIPERLUKAN.
 
 ```
-
